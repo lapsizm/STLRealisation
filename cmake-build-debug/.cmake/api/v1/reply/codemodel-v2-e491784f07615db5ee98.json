@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/kirill/lapsizm/isogramma/cmake-build-debug",
-		"source" : "/home/kirill/lapsizm/isogramma"
+		"build" : "/home/kirill/lapsizm/iso2/cmake-build-debug",
+		"source" : "/home/kirill/lapsizm/iso2"
 	},
 	"version" : 
 	{
